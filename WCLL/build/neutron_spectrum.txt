@@ -1,0 +1,16 @@
+-------------------- End of Global Run ---------------------
+The run consists of 1000000 events.
+Total energy deposited: 11.5503 TeV
+RMS: 5.97991 GeV
+Total tritium nuclei produced: 669984
+Total helium nuclei produced: 674538
+Total effective neutrons (non-backscattered): 917608
+
+--- Energy deposition by layer ---
+Layer: Envelope, Energy deposited: 1.04414 MeV, Absorbed dose: N/A (mass unknown)
+Layer: Plate1, Energy deposited: 1.36411 TeV, Absorbed dose: 21.5856 nanoGy 
+Layer: Plate2, Energy deposited: 10.1527 TeV, Absorbed dose: 2.39833 nanoGy 
+Layer: Plate3, Energy deposited: 33.4736 GeV, Absorbed dose: 84.8854 picoGy 
+Layer: World, Energy deposited: 4.17274e-11 meV, Absorbed dose: N/A (mass unknown)
+------------------------------------------------------------
+

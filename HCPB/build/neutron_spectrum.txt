@@ -1,0 +1,25 @@
+-------------------- End of Global Run ---------------------
+The run consists of 1000000 events.
+Total energy deposited: 12.1364 TeV
+RMS: 6.91828 GeV
+Total tritium nuclei produced: 880581
+Total helium nuclei produced: 995943
+Total effective neutrons (non-backscattered): 917657
+
+--- Energy deposition by layer --- 
+Layer: Be1, Energy deposited: 1.53159 TeV, Absorbed dose: N/A (mass unknown)
+Layer: Be2, Energy deposited: 653.409 GeV, Absorbed dose: N/A (mass unknown)
+Layer: Be3, Energy deposited: 170.49 GeV, Absorbed dose: N/A (mass unknown)
+Layer: Be4, Energy deposited: 38.9966 GeV, Absorbed dose: N/A (mass unknown)
+Layer: Be5, Energy deposited: 8.7107 GeV, Absorbed dose: N/A (mass unknown)
+Layer: Envelope, Energy deposited: 181.305 keV, Absorbed dose: N/A (mass unknown)
+Layer: Li2TiO3_1, Energy deposited: 5.69833 TeV, Absorbed dose: N/A (mass unknown)
+Layer: Li2TiO3_2, Energy deposited: 1.86699 TeV, Absorbed dose: N/A (mass unknown)
+Layer: Li2TiO3_3, Energy deposited: 456.951 GeV, Absorbed dose: N/A (mass unknown)
+Layer: Li2TiO3_4, Energy deposited: 97.9081 GeV, Absorbed dose: N/A (mass unknown)
+Layer: Li2TiO3_5, Energy deposited: 20.2601 GeV, Absorbed dose: N/A (mass unknown)
+Layer: Plate1, Energy deposited: 1.58646 TeV, Absorbed dose: 25.104 nanoGy 
+Layer: Plate3, Energy deposited: 6.32401 GeV, Absorbed dose: 16.037 picoGy 
+Layer: World, Energy deposited: 3.27905e-12 meV, Absorbed dose: N/A (mass unknown)
+------------------------------------------------------------
+

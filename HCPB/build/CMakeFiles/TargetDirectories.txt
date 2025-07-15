@@ -1,0 +1,3 @@
+/home/luisdavid/TFM/W-Be-Li2TiO3-EUROFER/build/CMakeFiles/exampleB1.dir
+/home/luisdavid/TFM/W-Be-Li2TiO3-EUROFER/build/CMakeFiles/edit_cache.dir
+/home/luisdavid/TFM/W-Be-Li2TiO3-EUROFER/build/CMakeFiles/rebuild_cache.dir

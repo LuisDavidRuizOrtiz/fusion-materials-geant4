@@ -1,0 +1,6 @@
+# Inicializar el sistema
+/run/initialize
+
+
+# Ejecutar eventos
+/run/beamOn 50000

@@ -1,0 +1,3 @@
+/home/luisdavid/TFM/TFM_func/build/CMakeFiles/exampleB1.dir
+/home/luisdavid/TFM/TFM_func/build/CMakeFiles/edit_cache.dir
+/home/luisdavid/TFM/TFM_func/build/CMakeFiles/rebuild_cache.dir
